@@ -1,0 +1,1522 @@
+{
+  "DF": {
+    "object_word": "Duft",
+    "action_word": "Dufte"
+  },
+  "DD": {
+    "object_word": "Daddy",
+    "action_word": "Daddy"
+  },
+  "FD": {
+    "object_word": "Fod",
+    "action_word": "Fedted"
+  },
+  "DA": {
+    "object_word": "Dalia",
+    "action_word": "大, stor"
+  },
+  "AD": {
+    "object_word": "Adolf Hitler",
+    "action_word": "Klam"
+  },
+  "DK": {
+    "object_word": "Dukke",
+    "action_word": "At dukke sig"
+  },
+  "KD": {
+    "object_word": "Kød",
+    "action_word": "at kede sig"
+  },
+  "DL": {
+    "object_word": "Diller",
+    "action_word": "Dele"
+  },
+  "LD": {
+    "object_word": "Luder",
+    "action_word": "At Lede efter"
+  },
+  "DJ": {
+    "object_word": "En DJ",
+    "action_word": "Dejlig"
+  },
+  "JD": {
+    "object_word": "Jøde",
+    "action_word": "Død"
+  },
+  "DI": {
+    "object_word": "Dansk Industri",
+    "action_word": "低 - lav"
+  },
+  "ID": {
+    "object_word": "ID (kort)",
+    "action_word": "Idiot"
+  },
+  "DG": {
+    "object_word": "Dag",
+    "action_word": "Lys"
+  },
+  "GD": {
+    "object_word": "Ged",
+    "action_word": "At Glide"
+  },
+  "DH": {
+    "object_word": "havet",
+    "action_word": "Saltet"
+  },
+  "HD": {
+    "object_word": "Hade, HD - high definition",
+    "action_word": "Hade, HD - high definition"
+  },
+  "DE": {
+    "object_word": "Tyskland",
+    "action_word": "Delusional"
+  },
+  "ED": {
+    "object_word": "Edderkop",
+    "action_word": "at æde"
+  },
+  "DN": {
+    "object_word": "Danmark",
+    "action_word": "Dansk"
+  },
+  "ND": {
+    "object_word": "Nørd",
+    "action_word": "Nyde"
+  },
+  "DM": {
+    "object_word": "Dame",
+    "action_word": "Dum"
+  },
+  "MD": {
+    "object_word": "Mad, mødde",
+    "action_word": "Mad, mødde"
+  },
+  "DT": {
+    "object_word": "Data",
+    "action_word": "DTU"
+  },
+  "TD": {
+    "object_word": "Tid",
+    "action_word": "At tude"
+  },
+  "DR": {
+    "object_word": "DRTV",
+    "action_word": "Drømme"
+  },
+  "RD": {
+    "object_word": "Et rod",
+    "action_word": "Rød"
+  },
+  "DO": {
+    "object_word": "Doktor",
+    "action_word": "Do it"
+  },
+  "OD": {
+    "object_word": "Odder",
+    "action_word": "Over doserer"
+  },
+  "DB": {
+    "object_word": "Dobby",
+    "action_word": "At dabbe"
+  },
+  "BD": {
+    "object_word": "Båd",
+    "action_word": "Bade"
+  },
+  "DX": {
+    "object_word": "Dexter (morder)",
+    "action_word": "At dokse"
+  },
+  "XD": {
+    "object_word": "兄弟, bror",
+    "action_word": "兄弟, bror"
+  },
+  "DV": {
+    "object_word": "Diva",
+    "action_word": "Doven"
+  },
+  "VD": {
+    "object_word": "Vædemål",
+    "action_word": "Væde"
+  },
+  "DU": {
+    "object_word": "du (dig)",
+    "action_word": "At du, At virke"
+  },
+  "UD": {
+    "object_word": "Udefor",
+    "action_word": "Udefor"
+  },
+  "AF": {
+    "object_word": "Afghanistan",
+    "action_word": "Afghanistan"
+  },
+  "FA": {
+    "object_word": "Far",
+    "action_word": "Faste"
+  },
+  "AK": {
+    "object_word": "Pistol",
+    "action_word": "Skyde"
+  },
+  "KA": {
+    "object_word": "Kage",
+    "action_word": "Kaste op"
+  },
+  "AJ": {
+    "object_word": "Ajax",
+    "action_word": "Eje"
+  },
+  "JA": {
+    "object_word": "Jaguar",
+    "action_word": "Sige Ja"
+  },
+  "AI": {
+    "object_word": "AI, Kunstig intelligens",
+    "action_word": "Afvise"
+  },
+  "IA": {
+    "object_word": "IDA (forening)",
+    "action_word": "Forening"
+  },
+  "AH": {
+    "object_word": "Amager",
+    "action_word": "Amager"
+  },
+  "HA": {
+    "object_word": "Griner - HAHAHA",
+    "action_word": "Griner - HAHAHA"
+  },
+  "AE": {
+    "object_word": "Manse",
+    "action_word": "at age"
+  },
+  "EA": {
+    "object_word": "EA games",
+    "action_word": "I EA"
+  },
+  "AP": {
+    "object_word": "App",
+    "action_word": "Apatisk"
+  },
+  "PA": {
+    "object_word": "pasta",
+    "action_word": "怕, bange"
+  },
+  "AN": {
+    "object_word": "HC Andersen",
+    "action_word": "Anderledes"
+  },
+  "NA": {
+    "object_word": "Nazi",
+    "action_word": "Nord America"
+  },
+  "AM": {
+    "object_word": "Arm",
+    "action_word": "Amme"
+  },
+  "MA": {
+    "object_word": "马 - hest",
+    "action_word": "马 - hest"
+  },
+  "AS": {
+    "object_word": "Aske",
+    "action_word": "Ryge"
+  },
+  "SA": {
+    "object_word": "Sexual assaulteren",
+    "action_word": "Sexual assault"
+  },
+  "AT": {
+    "object_word": "Artur",
+    "action_word": "Attack"
+  },
+  "TA": {
+    "object_word": "Teaching assistance",
+    "action_word": "Undervise"
+  },
+  "AR": {
+    "object_word": "Ar (sår)",
+    "action_word": "Arrestere"
+  },
+  "RA": {
+    "object_word": "Radio",
+    "action_word": "Rar"
+  },
+  "AO": {
+    "object_word": "Aolong",
+    "action_word": "Aftale"
+  },
+  "OA": {
+    "object_word": "Oase",
+    "action_word": "Slappe af"
+  },
+  "AB": {
+    "object_word": "Abe",
+    "action_word": "Absolut"
+  },
+  "BA": {
+    "object_word": "en bager",
+    "action_word": "at bage"
+  },
+  "AX": {
+    "object_word": "Axel",
+    "action_word": "Holbrogaard"
+  },
+  "XA": {
+    "object_word": "西安",
+    "action_word": "西安"
+  },
+  "AV": {
+    "object_word": "Smerte",
+    "action_word": "AV!, gør ondt"
+  },
+  "VA": {
+    "object_word": "Voice actor",
+    "action_word": "At vande"
+  },
+  "AU": {
+    "object_word": "Australien",
+    "action_word": "Australien"
+  },
+  "UA": {
+    "object_word": "Den uartige",
+    "action_word": "Uartig"
+  },
+  "FL": {
+    "object_word": "En flåt",
+    "action_word": "At falde"
+  },
+  "LF": {
+    "object_word": "Luffy",
+    "action_word": "Løfte"
+  },
+  "FJ": {
+    "object_word": "Fejl",
+    "action_word": "at feje, fejl"
+  },
+  "JF": {
+    "object_word": "Jeff (Jeffrey Dahmer)",
+    "action_word": "At Dræbe"
+  },
+  "FI": {
+    "object_word": "Fie (Luca)",
+    "action_word": "Fin"
+  },
+  "IF": {
+    "object_word": "衣服",
+    "action_word": "Tage tøj af"
+  },
+  "FG": {
+    "object_word": "Fangeren",
+    "action_word": "Fanger"
+  },
+  "GF": {
+    "object_word": "Gift",
+    "action_word": "Giftig"
+  },
+  "FH": {
+    "object_word": "Flash (karakter)",
+    "action_word": "Hurtig"
+  },
+  "HF": {
+    "object_word": "HF - uddanelse, Høffelig",
+    "action_word": "HF - uddanelse, Høffelig"
+  },
+  "FE": {
+    "object_word": "en fe",
+    "action_word": "Trylle"
+  },
+  "EF": {
+    "object_word": "Effekt",
+    "action_word": "Efter"
+  },
+  "FP": {
+    "object_word": "Fapperen",
+    "action_word": "Fappe"
+  },
+  "PF": {
+    "object_word": "Parfume",
+    "action_word": "Pifte"
+  },
+  "FN": {
+    "object_word": "Fanta",
+    "action_word": "Finde"
+  },
+  "NF": {
+    "object_word": "NF - sanger",
+    "action_word": "at nerfe"
+  },
+  "FM": {
+    "object_word": "Familie",
+    "action_word": "Famous"
+  },
+  "MF": {
+    "object_word": "Muffin",
+    "action_word": "Muffin"
+  },
+  "FS": {
+    "object_word": "Fest",
+    "action_word": "At feste"
+  },
+  "SF": {
+    "object_word": "Surferen",
+    "action_word": "Surfe"
+  },
+  "FR": {
+    "object_word": "En fryser",
+    "action_word": "Fryse"
+  },
+  "RF": {
+    "object_word": "Riffel",
+    "action_word": "Reflektere"
+  },
+  "FO": {
+    "object_word": "佛 (fo - buddha)",
+    "action_word": "At be"
+  },
+  "OF": {
+    "object_word": "Only Fans",
+    "action_word": "Ofre"
+  },
+  "FB": {
+    "object_word": "Facebook",
+    "action_word": "Logge ind"
+  },
+  "BF": {
+    "object_word": "Buffet",
+    "action_word": "Spise"
+  },
+  "FX": {
+    "object_word": "Faxe kondi",
+    "action_word": "Fix (at fikse, drug addiction fix)"
+  },
+  "XF": {
+    "object_word": "幸福",
+    "action_word": "幸福"
+  },
+  "FV": {
+    "object_word": "en farve",
+    "action_word": "at farve"
+  },
+  "VF": {
+    "object_word": "Vifte",
+    "action_word": "Vifter"
+  },
+  "FU": {
+    "object_word": "Fugl",
+    "action_word": "At være fuld"
+  },
+  "UF": {
+    "object_word": "UFO",
+    "action_word": "Farlig"
+  },
+  "KL": {
+    "object_word": "Kul",
+    "action_word": "At kalde"
+  },
+  "LK": {
+    "object_word": "En Lokal",
+    "action_word": "Lækker"
+  },
+  "KJ": {
+    "object_word": "Kejle",
+    "action_word": "Kejlet"
+  },
+  "JK": {
+    "object_word": "Jakob",
+    "action_word": "At Joke med nogen"
+  },
+  "KI": {
+    "object_word": "Kina, Kineser",
+    "action_word": "Kina, Kineser"
+  },
+  "IK": {
+    "object_word": "Ikea",
+    "action_word": "Ikea"
+  },
+  "KG": {
+    "object_word": "Konge",
+    "action_word": "Styrer"
+  },
+  "GK": {
+    "object_word": "Gokart",
+    "action_word": "Crazy"
+  },
+  "KH": {
+    "object_word": "Kalaha",
+    "action_word": "Spille Kalaha"
+  },
+  "HK": {
+    "object_word": "Hong Kong",
+    "action_word": "Hakke"
+  },
+  "KE": {
+    "object_word": "课 (kursus, modul)",
+    "action_word": "Gå til et modul"
+  },
+  "EK": {
+    "object_word": "Ekkenberg",
+    "action_word": "Ekkenberg"
+  },
+  "KP": {
+    "object_word": "Kaptajn",
+    "action_word": "Klappe"
+  },
+  "PK": {
+    "object_word": "Pik",
+    "action_word": "At pakke"
+  },
+  "KN": {
+    "object_word": "Cancer",
+    "action_word": "Cancer"
+  },
+  "NK": {
+    "object_word": "Nokia",
+    "action_word": "Nord Korea"
+  },
+  "KM": {
+    "object_word": "Kamera",
+    "action_word": "At kæmpe"
+  },
+  "MK": {
+    "object_word": "Mcdonalds",
+    "action_word": "Mcdonalds"
+  },
+  "KS": {
+    "object_word": "Kiste",
+    "action_word": "Kysse"
+  },
+  "SK": {
+    "object_word": "Sok",
+    "action_word": "Skinde"
+  },
+  "KR": {
+    "object_word": "Krone",
+    "action_word": "At Krone"
+  },
+  "RK": {
+    "object_word": "Rakket",
+    "action_word": "Flyve"
+  },
+  "KO": {
+    "object_word": "en ko",
+    "action_word": "Koldt"
+  },
+  "OK": {
+    "object_word": "Orkan",
+    "action_word": "er OK"
+  },
+  "KB": {
+    "object_word": "København",
+    "action_word": "Købe"
+  },
+  "BK": {
+    "object_word": "Burger King",
+    "action_word": "Burger King"
+  },
+  "KX": {
+    "object_word": "Kiks",
+    "action_word": "Kikset"
+  },
+  "XK": {
+    "object_word": "下课, 辛苦",
+    "action_word": "下课, 辛苦"
+  },
+  "KV": {
+    "object_word": "Kniv",
+    "action_word": "Kravle"
+  },
+  "VK": {
+    "object_word": "viking",
+    "action_word": "at vække, viking"
+  },
+  "KU": {
+    "object_word": "KU - København universitet",
+    "action_word": "KU - København universitet"
+  },
+  "UK": {
+    "object_word": "England",
+    "action_word": "England"
+  },
+  "LJ": {
+    "object_word": "Løg",
+    "action_word": "Lege"
+  },
+  "JL": {
+    "object_word": "Jul 🎄",
+    "action_word": "Hjælpe"
+  },
+  "LI": {
+    "object_word": "Et Lig (mord)",
+    "action_word": "At Lide"
+  },
+  "IL": {
+    "object_word": "Ild",
+    "action_word": "Brænde"
+  },
+  "LH": {
+    "object_word": "Lufthavn",
+    "action_word": "Lufthavn"
+  },
+  "HL": {
+    "object_word": "Helved",
+    "action_word": "at hilse"
+  },
+  "LE": {
+    "object_word": "Lego",
+    "action_word": "At Le"
+  },
+  "EL": {
+    "object_word": "EL",
+    "action_word": "få stød"
+  },
+  "LP": {
+    "object_word": "En Loppe",
+    "action_word": "Loppemarked"
+  },
+  "PL": {
+    "object_word": "Pille",
+    "action_word": "At pille"
+  },
+  "LN": {
+    "object_word": "Et Land",
+    "action_word": "Lande"
+  },
+  "NL": {
+    "object_word": "Nål",
+    "action_word": "Nulstille"
+  },
+  "LM": {
+    "object_word": "ChatGPT",
+    "action_word": "at larme, Lomme"
+  },
+  "ML": {
+    "object_word": "Machine learning, Måle, Melde",
+    "action_word": "Machine learning, Måle, Melde"
+  },
+  "LS": {
+    "object_word": "En Lås",
+    "action_word": "Læse"
+  },
+  "SL": {
+    "object_word": "Sælgeren",
+    "action_word": "sælge"
+  },
+  "LT": {
+    "object_word": "Lotto",
+    "action_word": "Let"
+  },
+  "TL": {
+    "object_word": "Tal",
+    "action_word": "Tælle, Tale"
+  },
+  "LR": {
+    "object_word": "En Lære",
+    "action_word": "At Lære"
+  },
+  "RL": {
+    "object_word": "En Rulle",
+    "action_word": "At Rulle"
+  },
+  "LO": {
+    "object_word": "Lort",
+    "action_word": "Lort"
+  },
+  "OL": {
+    "object_word": "OL (olympiske lege)",
+    "action_word": "at overleve"
+  },
+  "LB": {
+    "object_word": "Læbbe",
+    "action_word": "Løbe"
+  },
+  "BL": {
+    "object_word": "Blod",
+    "action_word": "Bælle (en drink)"
+  },
+  "LX": {
+    "object_word": "Laks",
+    "action_word": "Luksus"
+  },
+  "XL": {
+    "object_word": "心里, Extra large",
+    "action_word": "心里, Extra large"
+  },
+  "LV": {
+    "object_word": "Larve",
+    "action_word": "At lave"
+  },
+  "VL": {
+    "object_word": "Vilfred",
+    "action_word": "at vælge"
+  },
+  "LU": {
+    "object_word": "Luca",
+    "action_word": "At Lugte"
+  },
+  "UL": {
+    "object_word": "Ulækker",
+    "action_word": "Ulækker"
+  },
+  "JI": {
+    "object_word": "记 (note)",
+    "action_word": "Lave en note"
+  },
+  "IJ": {
+    "object_word": "Injektion",
+    "action_word": "at vaccinere"
+  },
+  "JG": {
+    "object_word": "Jagt",
+    "action_word": "Jagte"
+  },
+  "GJ": {
+    "object_word": "冠军 🏆 - Champion",
+    "action_word": "Gay"
+  },
+  "JH": {
+    "object_word": "机会, mulighed",
+    "action_word": "Jeg har, at have, X har"
+  },
+  "HJ": {
+    "object_word": "Hej, Haj",
+    "action_word": "Hej, Haj"
+  },
+  "JP": {
+    "object_word": "Japan",
+    "action_word": "Japan, Japansk"
+  },
+  "PJ": {
+    "object_word": "en pejs",
+    "action_word": "At pege"
+  },
+  "JN": {
+    "object_word": "John Cena",
+    "action_word": "Januar"
+  },
+  "NJ": {
+    "object_word": "Negl",
+    "action_word": "Sige Nej"
+  },
+  "JM": {
+    "object_word": "Jomfru",
+    "action_word": "Hjem"
+  },
+  "MJ": {
+    "object_word": "Michael Jackson, Mejeri, Møj",
+    "action_word": "Michael Jackson, Mejeri, Møj"
+  },
+  "JS": {
+    "object_word": "Jesus",
+    "action_word": "Genoplive"
+  },
+  "SJ": {
+    "object_word": "Den seje",
+    "action_word": "Sej"
+  },
+  "JT": {
+    "object_word": "Jette",
+    "action_word": "Tyk"
+  },
+  "TJ": {
+    "object_word": "Tegning",
+    "action_word": "Tegne"
+  },
+  "JR": {
+    "object_word": "Jern",
+    "action_word": "Hård"
+  },
+  "RJ": {
+    "object_word": "Reje",
+    "action_word": "Rejse"
+  },
+  "JO": {
+    "object_word": "Jord",
+    "action_word": "På Jorden"
+  },
+  "OJ": {
+    "object_word": "Øje",
+    "action_word": "Fokusere"
+  },
+  "JX": {
+    "object_word": "家乡 (hjemby)",
+    "action_word": "家乡 (hjemby)"
+  },
+  "XJ": {
+    "object_word": "现金 - cash, mønt",
+    "action_word": "现金 - cash, mønt"
+  },
+  "JV": {
+    "object_word": "Java",
+    "action_word": "Jævn"
+  },
+  "VJ": {
+    "object_word": "Vej",
+    "action_word": "at veje"
+  },
+  "JU": {
+    "object_word": "Yogurt",
+    "action_word": "Juble"
+  },
+  "UJ": {
+    "object_word": "Ujævn",
+    "action_word": "Ujævn"
+  },
+  "IG": {
+    "object_word": "Instagram",
+    "action_word": "Instagram"
+  },
+  "GI": {
+    "object_word": "Gi (kampsport)",
+    "action_word": "At Gifte sig"
+  },
+  "IH": {
+    "object_word": "Fortrydelse",
+    "action_word": "fortryde"
+  },
+  "HI": {
+    "object_word": "Hissig",
+    "action_word": "Hissig"
+  },
+  "IE": {
+    "object_word": "Ide",
+    "action_word": "Få en ide"
+  },
+  "EI": {
+    "object_word": "恶意 😈, Eid",
+    "action_word": "Ond"
+  },
+  "IP": {
+    "object_word": "IP man - kung fu",
+    "action_word": "Sparke"
+  },
+  "PI": {
+    "object_word": "Pige",
+    "action_word": "Pinlig"
+  },
+  "PP": {
+    "object_word": "Pippi Langstrømpe",
+    "action_word": "Pippi Langstrømpe"
+  },
+  "IN": {
+    "object_word": "Indien",
+    "action_word": "Indien"
+  },
+  "NI": {
+    "object_word": "9",
+    "action_word": "9"
+  },
+  "IM": {
+    "object_word": "Iman",
+    "action_word": "Imorgen"
+  },
+  "MI": {
+    "object_word": "Micki",
+    "action_word": "Micki"
+  },
+  "IS": {
+    "object_word": "Is",
+    "action_word": "Sød"
+  },
+  "SI": {
+    "object_word": "En si",
+    "action_word": "Sikker"
+  },
+  "IT": {
+    "object_word": "IT",
+    "action_word": "Irriterende"
+  },
+  "TI": {
+    "object_word": "10",
+    "action_word": "10"
+  },
+  "IO": {
+    "object_word": "Hitman",
+    "action_word": "I orden"
+  },
+  "OI": {
+    "object_word": "Oyster",
+    "action_word": "Svømme"
+  },
+  "IB": {
+    "object_word": "Iben",
+    "action_word": "Gammel"
+  },
+  "BI": {
+    "object_word": "en bi",
+    "action_word": "bisexuel"
+  },
+  "IX": {
+    "object_word": "Index",
+    "action_word": "Indexere"
+  },
+  "XI": {
+    "object_word": "xi jin ping",
+    "action_word": "xi jin ping"
+  },
+  "IV": {
+    "object_word": "Ivan",
+    "action_word": "Ivrig"
+  },
+  "VI": {
+    "object_word": "Vin",
+    "action_word": "Hvid"
+  },
+  "GH": {
+    "object_word": "Gulvhorn",
+    "action_word": "Grine"
+  },
+  "HG": {
+    "object_word": "Hugge, Hygge",
+    "action_word": "Hugge, Hygge"
+  },
+  "GE": {
+    "object_word": "g-streng",
+    "action_word": "Gemme"
+  },
+  "EG": {
+    "object_word": "Egdal",
+    "action_word": "Konkurrere"
+  },
+  "GP": {
+    "object_word": "GoPro",
+    "action_word": "Give plads"
+  },
+  "PG": {
+    "object_word": "Penge",
+    "action_word": "Pigge, stikke"
+  },
+  "GN": {
+    "object_word": "Gandalf",
+    "action_word": "Gnide"
+  },
+  "NG": {
+    "object_word": "N***er",
+    "action_word": "Nigger"
+  },
+  "GM": {
+    "object_word": "Gamer",
+    "action_word": "At Game"
+  },
+  "MG": {
+    "object_word": "Mega, Meget",
+    "action_word": "Mega, Meget"
+  },
+  "GS": {
+    "object_word": "Gås",
+    "action_word": "At gasse, blive gasset"
+  },
+  "SG": {
+    "object_word": "Seng",
+    "action_word": "Suge"
+  },
+  "GT": {
+    "object_word": "Ghetto",
+    "action_word": "at gætte"
+  },
+  "TG": {
+    "object_word": "En tigger",
+    "action_word": "at tigge"
+  },
+  "GR": {
+    "object_word": "Græs",
+    "action_word": "Grøn"
+  },
+  "RG": {
+    "object_word": "Regn",
+    "action_word": "Regne"
+  },
+  "GO": {
+    "object_word": "Gorilla",
+    "action_word": "God"
+  },
+  "OG": {
+    "object_word": "Trold",
+    "action_word": "OG (slang - original gamer)"
+  },
+  "GB": {
+    "object_word": "Et Gebis",
+    "action_word": "at gabe"
+  },
+  "BG": {
+    "object_word": "Baggrund",
+    "action_word": "Begynde"
+  },
+  "GX": {
+    "object_word": "Gen X",
+    "action_word": "At Glemme"
+  },
+  "XG": {
+    "object_word": "性格",
+    "action_word": "性格"
+  },
+  "GV": {
+    "object_word": "Gave",
+    "action_word": "Give"
+  },
+  "VG": {
+    "object_word": "Vigga",
+    "action_word": "At vugge"
+  },
+  "GU": {
+    "object_word": "Gulvet",
+    "action_word": "Guld, Gul"
+  },
+  "UG": {
+    "object_word": "Uge",
+    "action_word": "Ung"
+  },
+  "HE": {
+    "object_word": "喝",
+    "action_word": "喝"
+  },
+  "EH": {
+    "object_word": "Enhed",
+    "action_word": "Ensom"
+  },
+  "HP": {
+    "object_word": "Hoppe, Hipster",
+    "action_word": "Hoppe, Hipster"
+  },
+  "PH": {
+    "object_word": "Filosofi",
+    "action_word": "Filosofere"
+  },
+  "HN": {
+    "object_word": "Hånd, Handske",
+    "action_word": "Hånd, Handske"
+  },
+  "NH": {
+    "object_word": "Niall Horan",
+    "action_word": "Irland"
+  },
+  "HS": {
+    "object_word": "Hash",
+    "action_word": "Blive skæv"
+  },
+  "SH": {
+    "object_word": "Sahara",
+    "action_word": "Sahara"
+  },
+  "HT": {
+    "object_word": "Hotpot, Hat",
+    "action_word": "Hotpot, Hat"
+  },
+  "TH": {
+    "object_word": "天河 - milkyway, galaxe",
+    "action_word": "Tilhører"
+  },
+  "HR": {
+    "object_word": "Hare",
+    "action_word": "Hare"
+  },
+  "RH": {
+    "object_word": "Piece",
+    "action_word": "Blød"
+  },
+  "HO": {
+    "object_word": "Honning",
+    "action_word": "Hoste"
+  },
+  "OH": {
+    "object_word": "One handed",
+    "action_word": "Overasket"
+  },
+  "HB": {
+    "object_word": "Hobby, Håbe",
+    "action_word": "Hobby, Håbe"
+  },
+  "BH": {
+    "object_word": "BH (tøj)",
+    "action_word": "Bagtale"
+  },
+  "HV": {
+    "object_word": "Have, Havn",
+    "action_word": "Have, Havn"
+  },
+  "VH": {
+    "object_word": "Valhalla",
+    "action_word": "Valhalla"
+  },
+  "HU": {
+    "object_word": "虎 - tiger",
+    "action_word": "虎 - tiger"
+  },
+  "UH": {
+    "object_word": "Uheld",
+    "action_word": "Uhyggelig"
+  },
+  "EP": {
+    "object_word": "Epilepsi",
+    "action_word": "få epilepsi"
+  },
+  "PE": {
+    "object_word": "Blyant",
+    "action_word": "Skrive"
+  },
+  "EN": {
+    "object_word": "Enhjørning",
+    "action_word": "Engelsk"
+  },
+  "NE": {
+    "object_word": "Ne (Neon element)",
+    "action_word": "Negativ"
+  },
+  "EM": {
+    "object_word": "Emma (Fyn)",
+    "action_word": "Europa mesterskab"
+  },
+  "ME": {
+    "object_word": "Melodi, Mere",
+    "action_word": "Melodi, Mere"
+  },
+  "ES": {
+    "object_word": "Spanier",
+    "action_word": "Spansk"
+  },
+  "SE": {
+    "object_word": "Scene",
+    "action_word": "at se"
+  },
+  "ET": {
+    "object_word": "ET (fra filmen)",
+    "action_word": "Filmer"
+  },
+  "TE": {
+    "object_word": "Te - drik",
+    "action_word": "Bitter"
+  },
+  "ER": {
+    "object_word": "Europa rekord",
+    "action_word": "Er"
+  },
+  "RE": {
+    "object_word": "En Varm",
+    "action_word": "Varme"
+  },
+  "EO": {
+    "object_word": "Emo",
+    "action_word": "lave EO"
+  },
+  "OE": {
+    "object_word": "Ole",
+    "action_word": "Oplever"
+  },
+  "EX": {
+    "object_word": "Ekskæreste",
+    "action_word": "Ekstrem"
+  },
+  "XE": {
+    "object_word": "Xenon (element)",
+    "action_word": "Xenon (element)"
+  },
+  "EV": {
+    "object_word": "El bil",
+    "action_word": "Selvkørende"
+  },
+  "VE": {
+    "object_word": "V - BTS",
+    "action_word": "Synger"
+  },
+  "EU": {
+    "object_word": "Europa",
+    "action_word": "Europa"
+  },
+  "UE": {
+    "object_word": "Den uenige",
+    "action_word": "Uenig"
+  },
+  "PN": {
+    "object_word": "Panda",
+    "action_word": "Tage en PN (medicin)"
+  },
+  "NP": {
+    "object_word": "No problem",
+    "action_word": "Nepal"
+  },
+  "PM": {
+    "object_word": "Pomfritter",
+    "action_word": "Programmere"
+  },
+  "MP": {
+    "object_word": "Mappe, multiplayer",
+    "action_word": "Mappe, multiplayer"
+  },
+  "PT": {
+    "object_word": "Peter Plys",
+    "action_word": "Positiv"
+  },
+  "TP": {
+    "object_word": "Tape",
+    "action_word": "At Tape"
+  },
+  "PR": {
+    "object_word": "Prut",
+    "action_word": "At prutte"
+  },
+  "RP": {
+    "object_word": "Rap",
+    "action_word": "Rappe"
+  },
+  "PO": {
+    "object_word": "Po - Kung Fu Panda",
+    "action_word": "Lave kung fu"
+  },
+  "OP": {
+    "object_word": "Old Pochmann",
+    "action_word": "Over powered"
+  },
+  "PB": {
+    "object_word": "Peanut butter",
+    "action_word": "Få en PB rekord"
+  },
+  "BP": {
+    "object_word": "Boobs, babs",
+    "action_word": "Banke på"
+  },
+  "PX": {
+    "object_word": "Pixel",
+    "action_word": "Pixeleret"
+  },
+  "XP": {
+    "object_word": "芯片 (Chip, used in computers)",
+    "action_word": "芯片 (Chip, used in computers)"
+  },
+  "PV": {
+    "object_word": "Pave",
+    "action_word": "At pive"
+  },
+  "VP": {
+    "object_word": "Vape",
+    "action_word": "at Vape"
+  },
+  "PU": {
+    "object_word": "Pussy",
+    "action_word": "Puste"
+  },
+  "UP": {
+    "object_word": "Ballon",
+    "action_word": "Ups"
+  },
+  "NM": {
+    "object_word": "Nemo",
+    "action_word": "Nem"
+  },
+  "MN": {
+    "object_word": "Måne, Mand, Menneske",
+    "action_word": "Måne, Mand, Menneske"
+  },
+  "NS": {
+    "object_word": "Nisse",
+    "action_word": "Nyse"
+  },
+  "SN": {
+    "object_word": "Sand",
+    "action_word": "at sende"
+  },
+  "NT": {
+    "object_word": "Netto",
+    "action_word": "I Netto"
+  },
+  "TN": {
+    "object_word": "Tandlæge",
+    "action_word": "Tænde"
+  },
+  "NR": {
+    "object_word": "National rekord",
+    "action_word": "Lave NR"
+  },
+  "RN": {
+    "object_word": "En Random",
+    "action_word": "Rund"
+  },
+  "NB": {
+    "object_word": "Noob",
+    "action_word": "Noob"
+  },
+  "BN": {
+    "object_word": "Bønne",
+    "action_word": "At Banne"
+  },
+  "NX": {
+    "object_word": "Ninja",
+    "action_word": "sige NIX!"
+  },
+  "XN": {
+    "object_word": "新年",
+    "action_word": "新年"
+  },
+  "NU": {
+    "object_word": "Nu",
+    "action_word": "Nuttet"
+  },
+  "UN": {
+    "object_word": "Den underlige",
+    "action_word": "Undskylde"
+  },
+  "MS": {
+    "object_word": "Microsoft, Mus, Messi",
+    "action_word": "Microsoft, Mus, Messi"
+  },
+  "SM": {
+    "object_word": "Sommer",
+    "action_word": "Sammen"
+  },
+  "MT": {
+    "object_word": "Metal, Mette",
+    "action_word": "Metal, Mette"
+  },
+  "TM": {
+    "object_word": "Tom",
+    "action_word": "Tømme"
+  },
+  "MR": {
+    "object_word": "Mur, MR-skanning",
+    "action_word": "Mur, MR-skanning"
+  },
+  "RM": {
+    "object_word": "Rami Sbahi",
+    "action_word": "at ramme"
+  },
+  "MO": {
+    "object_word": "Moden, Modig, Mor",
+    "action_word": "Moden, Modig, Mor"
+  },
+  "OM": {
+    "object_word": "Omelet",
+    "action_word": "Ombestemme"
+  },
+  "MB": {
+    "object_word": "MB - moob - mor ven",
+    "action_word": "MB - moob - mor ven"
+  },
+  "BM": {
+    "object_word": "Bombe",
+    "action_word": "Bombe"
+  },
+  "MV": {
+    "object_word": "Mave",
+    "action_word": "Mave"
+  },
+  "VM": {
+    "object_word": "Verdensmesterskab",
+    "action_word": "Vammel"
+  },
+  "MU": {
+    "object_word": "木 (træ)",
+    "action_word": "木 (træ)"
+  },
+  "UM": {
+    "object_word": "Umami",
+    "action_word": "Umage"
+  },
+  "ST": {
+    "object_word": "Sut",
+    "action_word": "Sutte"
+  },
+  "TS": {
+    "object_word": "Tis",
+    "action_word": "Tisse"
+  },
+  "SR": {
+    "object_word": "Sarah (folkeskole)",
+    "action_word": "Flot"
+  },
+  "RS": {
+    "object_word": "Ris",
+    "action_word": "Rutche"
+  },
+  "SO": {
+    "object_word": "En so",
+    "action_word": "Sort"
+  },
+  "OS": {
+    "object_word": "Ost",
+    "action_word": "Oslo"
+  },
+  "SB": {
+    "object_word": "Sebastian",
+    "action_word": "Super"
+  },
+  "BS": {
+    "object_word": "Bedstemor",
+    "action_word": "Bedste"
+  },
+  "SX": {
+    "object_word": "Sex",
+    "action_word": "Have sex"
+  },
+  "XS": {
+    "object_word": "现实, Extra small",
+    "action_word": "现实, Extra small"
+  },
+  "SV": {
+    "object_word": "Sav",
+    "action_word": "Sove"
+  },
+  "VS": {
+    "object_word": "Vase",
+    "action_word": "Vaske"
+  },
+  "SU": {
+    "object_word": "SU - uddanelse",
+    "action_word": "Sur"
+  },
+  "US": {
+    "object_word": "USA",
+    "action_word": "Usikker"
+  },
+  "TR": {
+    "object_word": "Trafik",
+    "action_word": "At tro"
+  },
+  "RT": {
+    "object_word": "En ret",
+    "action_word": "Have ret"
+  },
+  "TO": {
+    "object_word": "2",
+    "action_word": "2"
+  },
+  "OT": {
+    "object_word": "Otto",
+    "action_word": "Overtage"
+  },
+  "TB": {
+    "object_word": "Taber",
+    "action_word": "Tabe"
+  },
+  "BT": {
+    "object_word": "Batman",
+    "action_word": "Bytte"
+  },
+  "TX": {
+    "object_word": "Taxa",
+    "action_word": "Taxa"
+  },
+  "XT": {
+    "object_word": "系统 (System)",
+    "action_word": "系统 (System)"
+  },
+  "TV": {
+    "object_word": "Tyv",
+    "action_word": "Tæve"
+  },
+  "VT": {
+    "object_word": "Vinter",
+    "action_word": "Våd"
+  },
+  "TU": {
+    "object_word": "兔子 🐰",
+    "action_word": "Tumle"
+  },
+  "UT": {
+    "object_word": "Utopia",
+    "action_word": "Utaknemmelig"
+  },
+  "RO": {
+    "object_word": "Ro (stilhed), at ro",
+    "action_word": "Rolig"
+  },
+  "OR": {
+    "object_word": "Ord",
+    "action_word": "at ordne"
+  },
+  "RB": {
+    "object_word": "Robin Hood",
+    "action_word": "Råbe"
+  },
+  "BR": {
+    "object_word": "BR (legetøj butik)",
+    "action_word": "BR (legetøj butik)"
+  },
+  "RX": {
+    "object_word": "T-rex",
+    "action_word": "Streng, Strix"
+  },
+  "XR": {
+    "object_word": "新人",
+    "action_word": "新人"
+  },
+  "RV": {
+    "object_word": "Røv",
+    "action_word": "At Røve"
+  },
+  "VR": {
+    "object_word": "Verdensrekord",
+    "action_word": "at vinde"
+  },
+  "OB": {
+    "object_word": "Obi wan kanobi",
+    "action_word": "Observere"
+  },
+  "BO": {
+    "object_word": "Bo, mormors søster",
+    "action_word": "at bo"
+  },
+  "OX": {
+    "object_word": "Oxygen",
+    "action_word": "Trække vejret"
+  },
+  "XO": {
+    "object_word": "Kiss",
+    "action_word": "Kiss"
+  },
+  "OU": {
+    "object_word": "Goku",
+    "action_word": "Transformere"
+  },
+  "UO": {
+    "object_word": "Uno",
+    "action_word": "Ulovlig"
+  },
+  "BX": {
+    "object_word": "Box",
+    "action_word": "At bokse"
+  },
+  "XB": {
+    "object_word": "宣布",
+    "action_word": "宣布"
+  },
+  "BV": {
+    "object_word": "Bæver",
+    "action_word": "Besvime"
+  },
+  "VB": {
+    "object_word": "Våben",
+    "action_word": "Vibrere"
+  },
+  "BU": {
+    "object_word": "Buster",
+    "action_word": "at bue ad nogen"
+  },
+  "UB": {
+    "object_word": "Uber",
+    "action_word": "Uber"
+  },
+  "XV": {
+    "object_word": "虚无 (nothingness)",
+    "action_word": "虚无 (nothingness)"
+  },
+  "VX": {
+    "object_word": "Voks",
+    "action_word": "at Vokse"
+  },
+  "XU": {
+    "object_word": "雪",
+    "action_word": "雪"
+  },
+  "UX": {
+    "object_word": "UX designer",
+    "action_word": "at designe"
+  },
+  "VU": {
+    "object_word": "Vue",
+    "action_word": "lave Vudu"
+  },
+  "UV": {
+    "object_word": "UV lys",
+    "action_word": "At være uvenner"
+  }
+}

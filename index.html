@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <!-- Prevent Zooming on Mobile Devices -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Rubik's Cube Commutator Trainer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Start Screen -->
+    <div id="start-screen" class="screen active">
+        <h1>Rubik's Cube Commutator Trainer</h1>
+        <form id="start-form">
+            <!-- Commutator Type Selection -->
+            <label>Select Commutator Type:</label>
+            <div class="form-group radio-group-container">
+                <div class="radio-group">
+                    <input type="radio" id="edge" name="commutator-type" value="edge" checked>
+                    <label for="edge">Edge</label>
+                </div>
+                <div class="radio-group">
+                    <input type="radio" id="corner" name="commutator-type" value="corner">
+                    <label for="corner">Corner</label>
+                </div>
+                <div class="radio-group">
+                    <input type="radio" id="letter-pair" name="commutator-type" value="letter-pair">
+                    <label for="letter-pair">Letter Pair</label>
+                </div>
+            </div>
+
+            <!-- Word Type Selection (Visible Only for Letter Pair Mode) -->
+            <div class="form-group radio-group-container" id="word-type-group">
+                <div class="radio-group">
+                    <input type="radio" id="object-word" name="word-type" value="object-word" checked>
+                    <label for="object-word">Object</label>
+                </div>
+                <div class="radio-group">
+                    <input type="radio" id="action-word" name="word-type" value="action-word">
+                    <label for="action-word">Action</label>
+                </div>
+                <div class="radio-group">
+                    <input type="radio" id="alternate-word" name="word-type" value="alternate-word">
+                    <label for="alternate-word">Alternate</label>
+                </div>
+            </div>
+
+            <!-- Starting Letters Input -->
+            <div class="form-group" id="letters-group">
+                <label for="letters">Enter Starting Letters (e.g., ASJ):</label>
+                <input type="text" id="letters" name="letters" required>
+            </div>
+
+            <!-- Time Threshold Input -->
+            <div class="form-group" id="threshold-group">
+                <label for="threshold">Set Time Threshold (seconds):</label>
+                <input type="number" id="threshold" name="threshold" min="0.01" step="0.01" required>
+            </div>
+
+            <!-- Number of Pairs per Step Input -->
+            <div class="form-group">
+                <label for="num-pairs">Number of Pairs per Step:</label>
+                <input type="number" id="num-pairs" name="num-pairs" min="1" value="1" required>
+            </div>
+
+            <!-- Commutator Display Option -->
+            <div class="form-group checkbox-group" id="commutator-option-group">
+                <input type="checkbox" id="show-comm" name="show-comm">
+                <label for="show-comm">Show Commutator After First Action</label>
+            </div>
+
+            <!-- Start Button -->
+            <button type="submit" id="start-button">Start Practice</button>
+        </form>
+    </div>
+
+    <!-- Practice Screen -->
+    <div id="practice-screen" class="screen">
+        <!-- Progress Bar -->
+        <div id="progress-container">
+            <progress id="progress-bar" value="0" max="100"></progress>
+        </div>
+
+        <!-- Pair Display -->
+        <div id="pair-display">
+            <!-- Pairs, Commutators, or Words will be dynamically inserted here -->
+        </div>
+
+        <!-- Timer -->
+        <div id="timer">00:00.00</div>
+
+        <!-- Feedback Buttons for Letter Pair Mode -->
+        <div id="feedback-buttons" style="display: none;">
+            <button id="failed-button">Failed</button>
+        </div>
+    </div>
+
+    <!-- End Screen -->
+    <div id="end-screen" class="screen">
+        <h2>Training Completed!</h2>
+        <div id="statistics">
+            <!-- Summary will be dynamically inserted here -->
+        </div>
+        <div class="button-group">
+            <button id="repeat-button">Repeat Failed</button>
+            <button id="repeat-all-button">Repeat All</button>
+            <button id="finish-button">Finish</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
