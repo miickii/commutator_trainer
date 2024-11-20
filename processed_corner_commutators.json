@@ -5,11 +5,15 @@
   },
   "DD": {
     "commutator": "[Lw': [R' D2 R, U]]",
-    "words": "Daddy, Daddy"
+    "words": "Død, Død"
   },
   "FD": {
     "commutator": "[Lw': [U, R' D2 R]]",
     "words": "Fod, Fedted"
+  },
+  "FF": {
+    "commutator": "[Lw': [U, R' D2 R]]",
+    "words": "Fattig, Fattig"
   },
   "DA": {
     "commutator": "[Lw D: [R' D' R, U]]",
@@ -41,7 +45,7 @@
   },
   "JD": {
     "commutator": "[U, R' D R]",
-    "words": "Jøde, Død"
+    "words": "Jøde, Er Jøde"
   },
   "DI": {
     "commutator": "[U', R D' R']",
@@ -65,7 +69,7 @@
   },
   "HD": {
     "commutator": "[D': [U, R' D R]]",
-    "words": "Hade, HD - high definition, Hade, HD - high definition"
+    "words": "Kvalitet, Hade"
   },
   "DE": {
     "commutator": "[D: [R' D' R, U]]",
@@ -89,7 +93,7 @@
   },
   "MD": {
     "commutator": "[U, R' D' R]",
-    "words": "Mad, mødde, Mad, mødde"
+    "words": "Mad, Mødde"
   },
   "DT": {
     "commutator": "[R': [R' D' R, U2]]",
@@ -129,7 +133,7 @@
   },
   "XD": {
     "commutator": "[U' R' D R: [U, R D' R']]",
-    "words": "兄弟, bror, 兄弟, bror"
+    "words": "兄弟, bror, Stilet"
   },
   "DV": {
     "commutator": "[U R D' R': [U', R' D R]]",
@@ -185,7 +189,7 @@
   },
   "HA": {
     "commutator": "[D': [U', R' D R]]",
-    "words": "Griner - HAHAHA, Griner - HAHAHA"
+    "words": "Hammer, Hæve"
   },
   "AE": {
     "commutator": "[D: [R' D' R, U']]",
@@ -217,7 +221,7 @@
   },
   "MA": {
     "commutator": "[U', R' D' R]",
-    "words": "马 - hest, 马 - hest"
+    "words": "马 - hest, At Mase"
   },
   "AS": {
     "commutator": "[U' R: [R D R', U]]",
@@ -289,7 +293,7 @@
   },
   "LF": {
     "commutator": "[F: [R' D' R, U2]]",
-    "words": "Luffy, Løfte"
+    "words": "Luffy, Luft, Løfte"
   },
   "FJ": {
     "commutator": "[R' D R, U2]",
@@ -321,7 +325,7 @@
   },
   "HF": {
     "commutator": "[DU': [U2, R D R']]",
-    "words": "HF - uddanelse, Høffelig, HF - uddanelse, Høffelig"
+    "words": "Hofte, Høffelig"
   },
   "FE": {
     "commutator": "[U'D': [R D' R', U2]]",
@@ -353,7 +357,7 @@
   },
   "MF": {
     "commutator": "[U2, R' D' R]",
-    "words": "Muffin, Muffin"
+    "words": "Muffin, Magtfuld"
   },
   "FS": {
     "commutator": "[R' D': [U2, R' D R]]",
@@ -393,7 +397,7 @@
   },
   "XF": {
     "commutator": "[D R D' R': [U2, R' D R]]",
-    "words": "幸福, 幸福"
+    "words": "Glæde, 幸福"
   },
   "FV": {
     "commutator": "[R D' R': [R' D R, U2]]",
@@ -485,7 +489,7 @@
   },
   "KS": {
     "commutator": "[U R': [U', R' D' R]]",
-    "words": "Kiste, Kysse"
+    "words": "Kiste, Kaste"
   },
   "SK": {
     "commutator": "[U R': [R' D' R, U']]",
@@ -521,7 +525,7 @@
   },
   "XK": {
     "commutator": "[D2 R: [U, R D' R']]",
-    "words": "下课, 辛苦, 下课, 辛苦"
+    "words": "Arbejde, Hårdt arbejdene"
   },
   "KV": {
     "commutator": "[D R: [R D' R', U]]",
@@ -593,7 +597,7 @@
   },
   "ML": {
     "commutator": "[R' U': [R U R', D']]",
-    "words": "Machine learning, Måle, Melde, Machine learning, Måle, Melde"
+    "words": "Mælk, Malke"
   },
   "LS": {
     "commutator": "[R', U L U']",
@@ -641,7 +645,7 @@
   },
   "XL": {
     "commutator": "[R U' R': [U2, R' D' R]]",
-    "words": "心里, Extra large, 心里, Extra large"
+    "words": "Hjerte, Extra large"
   },
   "LV": {
     "commutator": "[z: [D2, R U R']]",
@@ -681,7 +685,7 @@
   },
   "HJ": {
     "commutator": "[U: [R U' R', D]]",
-    "words": "Hej, Haj, Hej, Haj"
+    "words": "Haj, Sige Hej"
   },
   "JP": {
     "commutator": "[U R U: [R' D R, U2]]",
@@ -705,7 +709,7 @@
   },
   "MJ": {
     "commutator": "[LW: [R U R', D2]]",
-    "words": "Michael Jackson, Mejeri, Møj, Michael Jackson, Mejeri, Møj"
+    "words": "Michael Jackson, Mejeri"
   },
   "JS": {
     "commutator": "[R' U: [R U' R', D]]",
@@ -745,7 +749,7 @@
   },
   "XJ": {
     "commutator": "[UD R D': [R' D R, U']]",
-    "words": "现金 - cash, mønt, 现金 - cash, mønt"
+    "words": "现金 - cash, mønt, Betale"
   },
   "JV": {
     "commutator": "[U R : [D, R U' R']]",
@@ -777,7 +781,7 @@
   },
   "HI": {
     "commutator": "[U R U': [U', R D' R']]",
-    "words": "Hissig, Hissig"
+    "words": "Himmel, Hissig"
   },
   "IE": {
     "commutator": "[D2: [R U R', D']]",
@@ -813,7 +817,7 @@
   },
   "MI": {
     "commutator": "[R U R', D2]",
-    "words": "Micki, Micki"
+    "words": "Micki, Mini"
   },
   "IS": {
     "commutator": "[U' L U, R]",
@@ -853,7 +857,7 @@
   },
   "XI": {
     "commutator": "[D2 R: [U', R D' R']]",
-    "words": "xi jin ping, xi jin ping"
+    "words": "xi jin ping, Beijing"
   },
   "IV": {
     "commutator": "[R D' R': [R' D R, U]]",
@@ -869,7 +873,7 @@
   },
   "HG": {
     "commutator": "[R': [F2, R D' R' D]]",
-    "words": "Hugge, Hygge, Hugge, Hygge"
+    "words": "Hegn, Hygge"
   },
   "GE": {
     "commutator": "[R U: [R' D R, U2]]",
@@ -901,7 +905,7 @@
   },
   "MG": {
     "commutator": "[Lw': [U2, R' D' R]]",
-    "words": "Mega, Meget, Mega, Meget"
+    "words": "Magnet, Magnetisk"
   },
   "GS": {
     "commutator": "[R D'U: [R' D' R, U2]]",
@@ -949,7 +953,7 @@
   },
   "XG": {
     "commutator": "[D' R UD: [U2, R' D' R]]",
-    "words": "性格, 性格"
+    "words": "性格, personlighed, Eksotisk"
   },
   "GV": {
     "commutator": "[D R: [R D' R', U2]]",
@@ -969,7 +973,7 @@
   },
   "HE": {
     "commutator": "[U L' U', R]",
-    "words": "喝, 喝"
+    "words": "Helt, Drikke"
   },
   "EH": {
     "commutator": "[R, U L' U']",
@@ -977,7 +981,7 @@
   },
   "HP": {
     "commutator": "[U' R' U: [R D R', U2]]",
-    "words": "Hoppe, Hipster, Hoppe, Hipster"
+    "words": "Hippie, Hoppe"
   },
   "PH": {
     "commutator": "[U' R' U: [U2, R D R']]",
@@ -985,7 +989,7 @@
   },
   "HN": {
     "commutator": "[U: [R U' R', D']]",
-    "words": "Hånd, Handske, Hånd, Handske"
+    "words": "Handske, Hænge"
   },
   "NH": {
     "commutator": "[U: [D', R U' R']]",
@@ -1001,7 +1005,7 @@
   },
   "HT": {
     "commutator": "[R: [U' L' U, R]]",
-    "words": "Hotpot, Hat, Hotpot, Hat"
+    "words": "Hat, Hente"
   },
   "TH": {
     "commutator": "[R: [R, U' L' U]]",
@@ -1009,7 +1013,7 @@
   },
   "HR": {
     "commutator": "[U: [R U' R', D2]]",
-    "words": "Hare, Hare"
+    "words": "Hare, Høre"
   },
   "RH": {
     "commutator": "[U: [D2, R U' R']]",
@@ -1025,7 +1029,7 @@
   },
   "HB": {
     "commutator": "[R : [R' U R U', F2]]",
-    "words": "Hobby, Håbe, Hobby, Håbe"
+    "words": "Hobby, Håbe"
   },
   "BH": {
     "commutator": "[R: [F2, R' U R U']]",
@@ -1033,7 +1037,7 @@
   },
   "HV": {
     "commutator": "[U R D': [U', R' D R]]",
-    "words": "Have, Havn, Have, Havn"
+    "words": "Have, Have"
   },
   "VH": {
     "commutator": "[U R D': [R' D R, U']]",
@@ -1041,7 +1045,7 @@
   },
   "HU": {
     "commutator": "[z: [R U2 R', D]]",
-    "words": "虎 - tiger, 虎 - tiger"
+    "words": "虎 - tiger, Huske"
   },
   "UH": {
     "commutator": "[z: [D, R U2 R']]",
@@ -1069,7 +1073,7 @@
   },
   "ME": {
     "commutator": "[R U R', D]",
-    "words": "Melodi, Mere, Melodi, Mere"
+    "words": "Melodi, Melde"
   },
   "ES": {
     "commutator": "[R', U L' U']",
@@ -1109,7 +1113,7 @@
   },
   "XE": {
     "commutator": "[R U' R': [U2, R' D R]]",
-    "words": "Xenon (element), Xenon (element)"
+    "words": "Xenon (element), Radioaktiv"
   },
   "EV": {
     "commutator": "[D R: [R D' R', U']]",
@@ -1141,7 +1145,7 @@
   },
   "MP": {
     "commutator": "[U' R' U'D: [U2, R D' R']]",
-    "words": "Mappe, multiplayer, Mappe, multiplayer"
+    "words": "Moppe, At Moppe"
   },
   "PT": {
     "commutator": "[U R: [U2, R D R']]",
@@ -1181,7 +1185,7 @@
   },
   "XP": {
     "commutator": "[U' D' R': [U2, R' D R]]",
-    "words": "芯片 (Chip, used in computers), 芯片 (Chip, used in computers)"
+    "words": "芯片 (Chip, used in computers), Expert"
   },
   "PV": {
     "commutator": "[F': [U2, R D R']]",
@@ -1205,7 +1209,7 @@
   },
   "MN": {
     "commutator": "[R D': [U, R' D R]]",
-    "words": "Måne, Mand, Menneske, Måne, Mand, Menneske"
+    "words": "Menneske, På Månen"
   },
   "NS": {
     "commutator": "[U' R U: [R' U' R, D]]",
@@ -1245,7 +1249,7 @@
   },
   "XN": {
     "commutator": "[R U' D' R': [U2, R' D R]]",
-    "words": "新年, 新年"
+    "words": "新年, Nytår, 新年, Nytår"
   },
   "NU": {
     "commutator": "[R2 D2: [R U R', D]]",
@@ -1257,7 +1261,7 @@
   },
   "MS": {
     "commutator": "[R D: [R D' R', U']]",
-    "words": "Microsoft, Mus, Messi, Microsoft, Mus, Messi"
+    "words": "Messi, Miste"
   },
   "SM": {
     "commutator": "[R D: [U', R D' R']]",
@@ -1265,7 +1269,7 @@
   },
   "MT": {
     "commutator": "[x': [R U' R', D']]",
-    "words": "Metal, Mette, Metal, Mette"
+    "words": "Mette, Være Mæt"
   },
   "TM": {
     "commutator": "[x': [D', R U' R']]",
@@ -1273,7 +1277,7 @@
   },
   "MR": {
     "commutator": "[x': [R U2 R', D']]",
-    "words": "Mur, MR-skanning, Mur, MR-skanning"
+    "words": "Mur, Mørk"
   },
   "RM": {
     "commutator": "[x': [D', R U2 R']]",
@@ -1281,7 +1285,7 @@
   },
   "MO": {
     "commutator": "[R U R', D']",
-    "words": "Moden, Modig, Mor, Moden, Modig, Mor"
+    "words": "Mor, Modig"
   },
   "OM": {
     "commutator": "[D', R U R']",
@@ -1289,7 +1293,7 @@
   },
   "MB": {
     "commutator": "[R D: [U, R' D' R]]",
-    "words": "MB - moob - mor ven, MB - moob - mor ven"
+    "words": "MB - moob - mor ven, At Mobbe"
   },
   "BM": {
     "commutator": "[R D: [R' D' R, U]]",
@@ -1297,7 +1301,7 @@
   },
   "MV": {
     "commutator": "[R U' R' D R: [U, R D' R']]",
-    "words": "Mave, Mave"
+    "words": "Mave, Mixe"
   },
   "VM": {
     "commutator": "[R U' R' D R: [R D' R', U]]",
@@ -1305,7 +1309,7 @@
   },
   "MU": {
     "commutator": "[R: [R D' R', U']]",
-    "words": "木 (træ), 木 (træ)"
+    "words": "木 (træ), Mumle"
   },
   "UM": {
     "commutator": "[R: [U', R D' R']]",
@@ -1349,7 +1353,7 @@
   },
   "XS": {
     "commutator": "[U R' U': [D', R U R']]",
-    "words": "现实, Extra small, 现实, Extra small"
+    "words": "Stjerne, 现实, Extra small"
   },
   "SV": {
     "commutator": "[D R U': [R' U R, D']]",
@@ -1397,7 +1401,7 @@
   },
   "XT": {
     "commutator": "[U'D' R': [U', R' D R]]",
-    "words": "系统 (System), 系统 (System)"
+    "words": "系统 (System), Ekstra"
   },
   "TV": {
     "commutator": "[U R : [D', R U' R']]",
@@ -1437,7 +1441,7 @@
   },
   "XR": {
     "commutator": "[U'D' R': [U, R' D R]]",
-    "words": "新人, 新人"
+    "words": "VR, Være i VR"
   },
   "RV": {
     "commutator": "[U R: [D2, R U' R']]",
@@ -1461,7 +1465,7 @@
   },
   "XO": {
     "commutator": "[D' R D: [R' D' R, U]]",
-    "words": "Kiss, Kiss"
+    "words": "Kys, Kysse"
   },
   "OU": {
     "commutator": "[R U' D' : [D2, R' U R]]",
@@ -1477,7 +1481,7 @@
   },
   "XB": {
     "commutator": "[U' R' F': [D', R U' R']]",
-    "words": "宣布, 宣布"
+    "words": "Xbox, Annoncere"
   },
   "BV": {
     "commutator": "[U' R2: [R2 U R2 U' R2, D]]",
@@ -1497,7 +1501,7 @@
   },
   "XV": {
     "commutator": "[F' R U': [R' D' R, U2]]",
-    "words": "虚无 (nothingness), 虚无 (nothingness)"
+    "words": "Ingenting, Er ingenting"
   },
   "VX": {
     "commutator": "[F' R U': [U2, R' D' R]]",
@@ -1505,7 +1509,7 @@
   },
   "XU": {
     "commutator": "[R U' R' U: [R D' R', U2]]",
-    "words": "雪, 雪"
+    "words": "雪, Sne, At sne"
   },
   "UX": {
     "commutator": "[R U' R' U: [U2, R D' R']]",
@@ -1518,5 +1522,13 @@
   "UV": {
     "commutator": "[z: [D2, R U2 R']]",
     "words": "UV lys, At være uvenner"
+  },
+  "AA": {
+    "commutator": "[U R': [R' D' R, U']]",
+    "words": "Skrige, Skrige"
+  },
+  "MM": {
+    "commutator": "[U R': [R' D' R, U']]",
+    "words": "Mime, Mime"
   }
 }

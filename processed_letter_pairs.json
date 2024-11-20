@@ -4,12 +4,16 @@
     "action_word": "Dufte"
   },
   "DD": {
-    "object_word": "Daddy",
-    "action_word": "Daddy"
+    "object_word": "Død",
+    "action_word": "Død"
   },
   "FD": {
     "object_word": "Fod",
     "action_word": "Fedted"
+  },
+  "FF": {
+    "object_word": "Fattig",
+    "action_word": "Fattig"
   },
   "DA": {
     "object_word": "Dalia",
@@ -41,7 +45,7 @@
   },
   "JD": {
     "object_word": "Jøde",
-    "action_word": "Død"
+    "action_word": "Er Jøde"
   },
   "DI": {
     "object_word": "Dansk Industri",
@@ -64,8 +68,8 @@
     "action_word": "Saltet"
   },
   "HD": {
-    "object_word": "Hade, HD - high definition",
-    "action_word": "Hade, HD - high definition"
+    "object_word": "Kvalitet",
+    "action_word": "Hade"
   },
   "DE": {
     "object_word": "Tyskland",
@@ -88,8 +92,8 @@
     "action_word": "Dum"
   },
   "MD": {
-    "object_word": "Mad, mødde",
-    "action_word": "Mad, mødde"
+    "object_word": "Mad",
+    "action_word": "Mødde"
   },
   "DT": {
     "object_word": "Data",
@@ -129,7 +133,7 @@
   },
   "XD": {
     "object_word": "兄弟, bror",
-    "action_word": "兄弟, bror"
+    "action_word": "Stilet"
   },
   "DV": {
     "object_word": "Diva",
@@ -184,8 +188,8 @@
     "action_word": "Amager"
   },
   "HA": {
-    "object_word": "Griner - HAHAHA",
-    "action_word": "Griner - HAHAHA"
+    "object_word": "Hammer",
+    "action_word": "Hæve"
   },
   "AE": {
     "object_word": "Manse",
@@ -217,7 +221,7 @@
   },
   "MA": {
     "object_word": "马 - hest",
-    "action_word": "马 - hest"
+    "action_word": "At Mase"
   },
   "AS": {
     "object_word": "Aske",
@@ -288,7 +292,7 @@
     "action_word": "At falde"
   },
   "LF": {
-    "object_word": "Luffy",
+    "object_word": "Luffy, Luft",
     "action_word": "Løfte"
   },
   "FJ": {
@@ -320,8 +324,8 @@
     "action_word": "Hurtig"
   },
   "HF": {
-    "object_word": "HF - uddanelse, Høffelig",
-    "action_word": "HF - uddanelse, Høffelig"
+    "object_word": "Hofte",
+    "action_word": "Høffelig"
   },
   "FE": {
     "object_word": "en fe",
@@ -353,7 +357,7 @@
   },
   "MF": {
     "object_word": "Muffin",
-    "action_word": "Muffin"
+    "action_word": "Magtfuld"
   },
   "FS": {
     "object_word": "Fest",
@@ -392,7 +396,7 @@
     "action_word": "Fix (at fikse, drug addiction fix)"
   },
   "XF": {
-    "object_word": "幸福",
+    "object_word": "Glæde",
     "action_word": "幸福"
   },
   "FV": {
@@ -485,7 +489,7 @@
   },
   "KS": {
     "object_word": "Kiste",
-    "action_word": "Kysse"
+    "action_word": "Kaste"
   },
   "SK": {
     "object_word": "Sok",
@@ -520,8 +524,8 @@
     "action_word": "Kikset"
   },
   "XK": {
-    "object_word": "下课, 辛苦",
-    "action_word": "下课, 辛苦"
+    "object_word": "Arbejde",
+    "action_word": "Hårdt arbejdene"
   },
   "KV": {
     "object_word": "Kniv",
@@ -592,8 +596,8 @@
     "action_word": "at larme, Lomme"
   },
   "ML": {
-    "object_word": "Machine learning, Måle, Melde",
-    "action_word": "Machine learning, Måle, Melde"
+    "object_word": "Mælk",
+    "action_word": "Malke"
   },
   "LS": {
     "object_word": "En Lås",
@@ -640,8 +644,8 @@
     "action_word": "Luksus"
   },
   "XL": {
-    "object_word": "心里, Extra large",
-    "action_word": "心里, Extra large"
+    "object_word": "Hjerte",
+    "action_word": "Extra large"
   },
   "LV": {
     "object_word": "Larve",
@@ -680,8 +684,8 @@
     "action_word": "Jeg har, at have, X har"
   },
   "HJ": {
-    "object_word": "Hej, Haj",
-    "action_word": "Hej, Haj"
+    "object_word": "Haj",
+    "action_word": "Sige Hej"
   },
   "JP": {
     "object_word": "Japan",
@@ -704,8 +708,8 @@
     "action_word": "Hjem"
   },
   "MJ": {
-    "object_word": "Michael Jackson, Mejeri, Møj",
-    "action_word": "Michael Jackson, Mejeri, Møj"
+    "object_word": "Michael Jackson",
+    "action_word": "Mejeri"
   },
   "JS": {
     "object_word": "Jesus",
@@ -745,7 +749,7 @@
   },
   "XJ": {
     "object_word": "现金 - cash, mønt",
-    "action_word": "现金 - cash, mønt"
+    "action_word": "Betale"
   },
   "JV": {
     "object_word": "Java",
@@ -776,7 +780,7 @@
     "action_word": "fortryde"
   },
   "HI": {
-    "object_word": "Hissig",
+    "object_word": "Himmel",
     "action_word": "Hissig"
   },
   "IE": {
@@ -813,7 +817,7 @@
   },
   "MI": {
     "object_word": "Micki",
-    "action_word": "Micki"
+    "action_word": "Mini"
   },
   "IS": {
     "object_word": "Is",
@@ -853,7 +857,7 @@
   },
   "XI": {
     "object_word": "xi jin ping",
-    "action_word": "xi jin ping"
+    "action_word": "Beijing"
   },
   "IV": {
     "object_word": "Ivan",
@@ -868,8 +872,8 @@
     "action_word": "Grine"
   },
   "HG": {
-    "object_word": "Hugge, Hygge",
-    "action_word": "Hugge, Hygge"
+    "object_word": "Hegn",
+    "action_word": "Hygge"
   },
   "GE": {
     "object_word": "g-streng",
@@ -900,8 +904,8 @@
     "action_word": "At Game"
   },
   "MG": {
-    "object_word": "Mega, Meget",
-    "action_word": "Mega, Meget"
+    "object_word": "Magnet",
+    "action_word": "Magnetisk"
   },
   "GS": {
     "object_word": "Gås",
@@ -948,8 +952,8 @@
     "action_word": "At Glemme"
   },
   "XG": {
-    "object_word": "性格",
-    "action_word": "性格"
+    "object_word": "性格, personlighed",
+    "action_word": "Eksotisk"
   },
   "GV": {
     "object_word": "Gave",
@@ -968,24 +972,24 @@
     "action_word": "Ung"
   },
   "HE": {
-    "object_word": "喝",
-    "action_word": "喝"
+    "object_word": "Helt",
+    "action_word": "Drikke"
   },
   "EH": {
     "object_word": "Enhed",
     "action_word": "Ensom"
   },
   "HP": {
-    "object_word": "Hoppe, Hipster",
-    "action_word": "Hoppe, Hipster"
+    "object_word": "Hippie",
+    "action_word": "Hoppe"
   },
   "PH": {
     "object_word": "Filosofi",
     "action_word": "Filosofere"
   },
   "HN": {
-    "object_word": "Hånd, Handske",
-    "action_word": "Hånd, Handske"
+    "object_word": "Handske",
+    "action_word": "Hænge"
   },
   "NH": {
     "object_word": "Niall Horan",
@@ -1000,8 +1004,8 @@
     "action_word": "Sahara"
   },
   "HT": {
-    "object_word": "Hotpot, Hat",
-    "action_word": "Hotpot, Hat"
+    "object_word": "Hat",
+    "action_word": "Hente"
   },
   "TH": {
     "object_word": "天河 - milkyway, galaxe",
@@ -1009,7 +1013,7 @@
   },
   "HR": {
     "object_word": "Hare",
-    "action_word": "Hare"
+    "action_word": "Høre"
   },
   "RH": {
     "object_word": "Piece",
@@ -1024,16 +1028,16 @@
     "action_word": "Overasket"
   },
   "HB": {
-    "object_word": "Hobby, Håbe",
-    "action_word": "Hobby, Håbe"
+    "object_word": "Hobby",
+    "action_word": "Håbe"
   },
   "BH": {
     "object_word": "BH (tøj)",
     "action_word": "Bagtale"
   },
   "HV": {
-    "object_word": "Have, Havn",
-    "action_word": "Have, Havn"
+    "object_word": "Have",
+    "action_word": "Have"
   },
   "VH": {
     "object_word": "Valhalla",
@@ -1041,7 +1045,7 @@
   },
   "HU": {
     "object_word": "虎 - tiger",
-    "action_word": "虎 - tiger"
+    "action_word": "Huske"
   },
   "UH": {
     "object_word": "Uheld",
@@ -1068,8 +1072,8 @@
     "action_word": "Europa mesterskab"
   },
   "ME": {
-    "object_word": "Melodi, Mere",
-    "action_word": "Melodi, Mere"
+    "object_word": "Melodi",
+    "action_word": "Melde"
   },
   "ES": {
     "object_word": "Spanier",
@@ -1109,7 +1113,7 @@
   },
   "XE": {
     "object_word": "Xenon (element)",
-    "action_word": "Xenon (element)"
+    "action_word": "Radioaktiv"
   },
   "EV": {
     "object_word": "El bil",
@@ -1140,8 +1144,8 @@
     "action_word": "Programmere"
   },
   "MP": {
-    "object_word": "Mappe, multiplayer",
-    "action_word": "Mappe, multiplayer"
+    "object_word": "Moppe",
+    "action_word": "At Moppe"
   },
   "PT": {
     "object_word": "Peter Plys",
@@ -1181,7 +1185,7 @@
   },
   "XP": {
     "object_word": "芯片 (Chip, used in computers)",
-    "action_word": "芯片 (Chip, used in computers)"
+    "action_word": "Expert"
   },
   "PV": {
     "object_word": "Pave",
@@ -1204,8 +1208,8 @@
     "action_word": "Nem"
   },
   "MN": {
-    "object_word": "Måne, Mand, Menneske",
-    "action_word": "Måne, Mand, Menneske"
+    "object_word": "Menneske",
+    "action_word": "På Månen"
   },
   "NS": {
     "object_word": "Nisse",
@@ -1244,8 +1248,8 @@
     "action_word": "sige NIX!"
   },
   "XN": {
-    "object_word": "新年",
-    "action_word": "新年"
+    "object_word": "新年, Nytår",
+    "action_word": "新年, Nytår"
   },
   "NU": {
     "object_word": "Nu",
@@ -1256,32 +1260,32 @@
     "action_word": "Undskylde"
   },
   "MS": {
-    "object_word": "Microsoft, Mus, Messi",
-    "action_word": "Microsoft, Mus, Messi"
+    "object_word": "Messi",
+    "action_word": "Miste"
   },
   "SM": {
     "object_word": "Sommer",
     "action_word": "Sammen"
   },
   "MT": {
-    "object_word": "Metal, Mette",
-    "action_word": "Metal, Mette"
+    "object_word": "Mette",
+    "action_word": "Være Mæt"
   },
   "TM": {
     "object_word": "Tom",
     "action_word": "Tømme"
   },
   "MR": {
-    "object_word": "Mur, MR-skanning",
-    "action_word": "Mur, MR-skanning"
+    "object_word": "Mur",
+    "action_word": "Mørk"
   },
   "RM": {
     "object_word": "Rami Sbahi",
     "action_word": "at ramme"
   },
   "MO": {
-    "object_word": "Moden, Modig, Mor",
-    "action_word": "Moden, Modig, Mor"
+    "object_word": "Mor",
+    "action_word": "Modig"
   },
   "OM": {
     "object_word": "Omelet",
@@ -1289,7 +1293,7 @@
   },
   "MB": {
     "object_word": "MB - moob - mor ven",
-    "action_word": "MB - moob - mor ven"
+    "action_word": "At Mobbe"
   },
   "BM": {
     "object_word": "Bombe",
@@ -1297,7 +1301,7 @@
   },
   "MV": {
     "object_word": "Mave",
-    "action_word": "Mave"
+    "action_word": "Mixe"
   },
   "VM": {
     "object_word": "Verdensmesterskab",
@@ -1305,7 +1309,7 @@
   },
   "MU": {
     "object_word": "木 (træ)",
-    "action_word": "木 (træ)"
+    "action_word": "Mumle"
   },
   "UM": {
     "object_word": "Umami",
@@ -1348,7 +1352,7 @@
     "action_word": "Have sex"
   },
   "XS": {
-    "object_word": "现实, Extra small",
+    "object_word": "Stjerne",
     "action_word": "现实, Extra small"
   },
   "SV": {
@@ -1397,7 +1401,7 @@
   },
   "XT": {
     "object_word": "系统 (System)",
-    "action_word": "系统 (System)"
+    "action_word": "Ekstra"
   },
   "TV": {
     "object_word": "Tyv",
@@ -1436,8 +1440,8 @@
     "action_word": "Streng, Strix"
   },
   "XR": {
-    "object_word": "新人",
-    "action_word": "新人"
+    "object_word": "VR",
+    "action_word": "Være i VR"
   },
   "RV": {
     "object_word": "Røv",
@@ -1460,8 +1464,8 @@
     "action_word": "Trække vejret"
   },
   "XO": {
-    "object_word": "Kiss",
-    "action_word": "Kiss"
+    "object_word": "Kys",
+    "action_word": "Kysse"
   },
   "OU": {
     "object_word": "Goku",
@@ -1476,8 +1480,8 @@
     "action_word": "At bokse"
   },
   "XB": {
-    "object_word": "宣布",
-    "action_word": "宣布"
+    "object_word": "Xbox",
+    "action_word": "Annoncere"
   },
   "BV": {
     "object_word": "Bæver",
@@ -1496,16 +1500,16 @@
     "action_word": "Uber"
   },
   "XV": {
-    "object_word": "虚无 (nothingness)",
-    "action_word": "虚无 (nothingness)"
+    "object_word": "Ingenting",
+    "action_word": "Er ingenting"
   },
   "VX": {
     "object_word": "Voks",
     "action_word": "at Vokse"
   },
   "XU": {
-    "object_word": "雪",
-    "action_word": "雪"
+    "object_word": "雪, Sne",
+    "action_word": "At sne"
   },
   "UX": {
     "object_word": "UX designer",
@@ -1518,5 +1522,13 @@
   "UV": {
     "object_word": "UV lys",
     "action_word": "At være uvenner"
+  },
+  "AA": {
+    "object_word": "Skrige",
+    "action_word": "Skrige"
+  },
+  "MM": {
+    "object_word": "Mime",
+    "action_word": "Mime"
   }
 }
