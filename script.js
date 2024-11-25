@@ -7,6 +7,7 @@ let threshold = 4;
 let numPairsPerStep = 1;
 let mode = 'edge';
 let wordType = 'object-word'; // Relevant for Letter Pair Mode
+let edgeType = 'normal';
 let showCommutator = false;
 let currentStep = 0;
 let totalSteps = 0;
@@ -18,6 +19,15 @@ let sessionActive = false; // Initialize to false to prevent unintended triggers
 let sessionResults = {}; // Object to track pairs under threshold in the current session
 let alternateFlag = false; // Flag to alternate between object and action words
 let elapsed = 0;
+
+const specialEdgePairs = [
+    "MS", "SM", "ES", "SE", "CS", "SC", "OS", "SO", "SY", "QS",
+    "JG", "GJ", "UG", "GU", "OG", "GO", "CG", "GC", "LG", "GL",
+    "MG", "GM", "NV", "VN", "JR", "RJ", "PV", "VA", "DV", "VD",
+    "QV", "VY", "LV", "VL", "HV", "VX", "OR", "RO", "CV", "VC",
+    "IV", "VI", "MV", "VM", "EV", "VE", "OV", "VO", "QB", "BY",
+    "TN", "NT"
+];
 
 // DOM Elements
 const startScreen = document.getElementById('start-screen');
@@ -32,6 +42,7 @@ const repeatButton = document.getElementById('repeat-button');
 const finishButton = document.getElementById('finish-button');
 const repeatAllButton = document.getElementById('repeat-all-button');
 const wordTypeGroup = document.getElementById('word-type-group');
+const edgeTypeGroup = document.getElementById('edge-type-group');
 const lettersGroup = document.getElementById('letters-group');
 const thresholdGroup = document.getElementById('threshold-group');
 const commutatorOptionGroup = document.getElementById('commutator-option-group');
@@ -57,6 +68,9 @@ document.getElementsByName('commutator-type').forEach(radio => {
 document.getElementsByName('word-type').forEach(radio => {
     radio.addEventListener('change', handleWordTypeChange);
 });
+document.getElementsByName('edge-type').forEach(radio => {
+    radio.addEventListener('change', handleEdgeTypeChange);
+});
 
 failedButton.addEventListener('touchstart', function(event) {
     event.stopPropagation(); // Prevent the 'practiceScreen' click from triggering handleNext(false)
@@ -69,12 +83,19 @@ function handleModeChange(event) {
     if (mode === 'letter-pair') {
         console.log("letter pair")
         wordTypeGroup.style.display = 'flex';
+        edgeTypeGroup.style.display = 'none';
         lettersGroup.style.display = 'block'; // Show lettersGroup in "Letter Pair" mode
         thresholdGroup.style.display = 'block'; // Show thresholdGroup in "Letter Pair" mode
         commutatorOptionGroup.style.display = 'none';
-    } else {
-        console.log("corner or edge")
+    } else if (mode === 'edge') {
         wordTypeGroup.style.display = 'none';
+        edgeTypeGroup.style.display = 'flex';
+        lettersGroup.style.display = 'block';
+        thresholdGroup.style.display = 'block';
+        commutatorOptionGroup.style.display = 'block';
+    } else {
+        wordTypeGroup.style.display = 'none';
+        edgeTypeGroup.style.display = 'none';
         lettersGroup.style.display = 'block';
         thresholdGroup.style.display = 'block';
         commutatorOptionGroup.style.display = 'block';
@@ -83,6 +104,11 @@ function handleModeChange(event) {
 // Function to Handle Word Type Change
 function handleWordTypeChange(event) {
     wordType = event.target.value;
+}
+
+function handleEdgeTypeChange(event) {
+    edgeType = event.target.value;
+    console.log(edgeType)
 }
 
 // Function to Start Practice
@@ -127,7 +153,18 @@ function startPractice(event) {
             return response.json();
         })
         .then(data => {
-            commutators = Object.keys(data)
+            if (mode === 'edge' && edgeType === 'special-edge') {
+                commutators = Object.keys(data)
+                .filter(key => specialEdgePairs.includes(key.toUpperCase()))
+                .map(key => ({
+                    pair: key,
+                    commutator: data[key].commutator || 'N/A',
+                    words: data[key].words || 'N/A',
+                    object_word: data[key].object_word || 'N/A',
+                    action_word: data[key].action_word || 'N/A'
+                }));
+            } else {
+                commutators = Object.keys(data)
                 .filter(key => startingLetters.has(key[0].toUpperCase()))
                 .map(key => ({
                     pair: key,
@@ -136,7 +173,8 @@ function startPractice(event) {
                     object_word: data[key].object_word || 'N/A',
                     action_word: data[key].action_word || 'N/A'
                 }));
-
+            }
+            
             if (commutators.length === 0) {
                 alert(`No commutators found starting with letters: ${Array.from(startingLetters).join(', ')}`);
                 return;
