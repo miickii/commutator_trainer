@@ -250,6 +250,16 @@ body, button {
     user-select: none; /* Standard syntax */
 }
 
+.ltct-commutator {
+    font-size: 1.2em;
+    line-height: 1.5;
+    white-space: pre-wrap;
+    margin-bottom: 20px;
+    background-color: #555555;
+    padding: 10px;
+    border-radius: 5px;
+}
+
 /* Responsive Design for Mobile */
 @media (max-width: 600px) {
     .screen {

@@ -111,6 +111,21 @@ function handleEdgeTypeChange(event) {
     console.log(edgeType)
 }
 
+function getJsonFileBasedOnMode(mode) {
+    switch (mode) {
+        case 'edge':
+            return 'processed_edge_commutators.json';
+        case 'corner':
+            return 'processed_corner_commutators.json';
+        case 'letter-pair':
+            return 'processed_letter_pairs.json';
+        case 'ltct':
+            return 'LTCT_algs.json'; // New LTCT mode JSON
+        default:
+            return 'processed_edge_commutators.json'; // Default fallback
+    }
+}
+
 // Function to Start Practice
 function startPractice(event) {
     event.preventDefault();
@@ -142,7 +157,7 @@ function startPractice(event) {
     const startingLetters = new Set(letters);
 
     // Load Commutators
-    const jsonFile = mode === 'edge' ? 'processed_edge_commutators.json' : mode === 'corner' ? 'processed_corner_commutators.json' : 'processed_letter_pairs.json';
+    const jsonFile = getJsonFileBasedOnMode(mode)
     console.log(jsonFile)
 
     fetch(jsonFile)
@@ -168,6 +183,8 @@ function startPractice(event) {
                 .filter(key => startingLetters.has(key[0].toUpperCase()))
                 .map(key => ({
                     pair: key,
+                    algorithm: data[key].algorithm || 'N/A',
+                    setup: data[key].setup || 'N/A',
                     commutator: data[key].commutator || 'N/A',
                     words: data[key].words || 'N/A',
                     object_word: data[key].object_word || 'N/A',
@@ -244,6 +261,8 @@ function showNextStep() {
 
         if (mode === 'letter-pair') {
             pairElement.textContent = comm.pair;
+        } else if (mode === 'ltct') {
+            pairElement.textContent = comm.pair; // Display the key during the timer
         } else {
             const displayText = mode === 'edge' ? comm.pair : comm.words;
             pairElement.textContent = displayText;
@@ -270,9 +289,8 @@ function updateTimer() {
     if (!sessionActive) return; // Prevent Timer Update if Session Ended
 
     const elapsed = (Date.now() - startTime) / 1000; // in seconds
-    const minutes = Math.floor(elapsed / 60);
     const seconds = (elapsed % 60).toFixed(2);
-    timerDisplay.textContent = `${pad(minutes)}:${pad(seconds)}`;
+    timerDisplay.textContent = `${seconds}`;
 
     // Update Timer Color Based on Threshold
     if (elapsed < threshold) {
@@ -325,6 +343,8 @@ function handleNext(failed) {
                 displayWord(displayedWord);
 
                 feedbackButtons.style.display = 'flex';
+            } else if (mode === 'ltct') {
+                displayLTCTCommutator();
             } else {
                 displayCommutator();
             }
@@ -354,6 +374,23 @@ practiceScreen.addEventListener('touchstart', function(event) {
     event.preventDefault(); // Prevent default touch actions
     handleNext(false);
 }, { passive: false });
+
+function displayLTCTCommutator() {
+    const comm = commutators[currentStep];
+    
+    // Clear the pair display
+    pairDisplay.innerHTML = '';
+    
+    // Create a single div element
+    const ltctElement = document.createElement('div');
+    ltctElement.classList.add('commutator', 'ltct-commutator'); // Added a specific class for LTCT if needed
+    
+    // Set the innerHTML with line breaks
+    ltctElement.innerHTML = `${comm.algorithm}<br><br>Setup:<br>${comm.setup}`;
+    
+    // Append the LTCT element to pairDisplay
+    pairDisplay.appendChild(ltctElement);
+}
 
 // Function to Display Commutator
 function displayCommutator() {
